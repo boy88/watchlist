@@ -2,4 +2,4 @@
 2  *~
 3  __pycache__
 4  .DS_Store
-
+5  .env
